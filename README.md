@@ -41,10 +41,11 @@ See the full analysis in the [Jupyter Notebook](https://github.com/jennifernha/N
 For additional info, contact Jennifer Ha at jnha1119@gmail.com
 ***
 ## Repository Structure
-├── data 
+```
 ├── images                        
-├── New-York-Airbnb-Analysis.ipynb   
-├── Presentation.pdf                   
-├── README.md                                    
-└── functions.py 
+├── NewYork-Airbnb-Analysis.ipynb   
+├── Prensentation.pdf  
+├── README.md                           
+└── functions.py
+  
   
