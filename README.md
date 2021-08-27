@@ -37,11 +37,12 @@ Our winning model is the last model we ran in this project, which is a gradient 
 
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/jennifernha/NYC-Airbnb-Analysis/blob/main/NewYork-Airbnb-Analysis.ipynb) or review this [presentation](https://github.com/jennifernha/NewYork-Airbnb-Analysis/blob/main/Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/jennifernha/NYC-Airbnb-Analysis/blob/main/NewYork-Airbnb-Analysis.ipynb) or review this [presentation](https://github.com/jennifernha/NYC-Airbnb-Analysis/blob/main/Presentation.pdf).
 For additional info, contact Jennifer Ha at jnha1119@gmail.com
 ***
 ## Repository Structure
 ```
+├── data
 ├── images                        
 ├── NewYork-Airbnb-Analysis.ipynb   
 ├── Prensentation.pdf  
