@@ -23,8 +23,10 @@ This project explores 5 different machine learning model types using the SKLearn
 ***
 ## Results
 Our winning model is the last model we ran in this project, which is a gradient boosting model with hyperparameter tuning to improve precision. This model is the best as we were able to increase the precision by 18.5% with almost no sacrifice to the accuracy and ROC-AUC score. This model also shows that it has the highest threshold when deciding whether a listing is valuable or not, allowing the least room for errors for the Airbnb marketing team when promoting the top 25% listings.
-![result1](./images/result1.jpg)
-![result2](./images/result2.jpg)
+
+![result](./images/results1.png)
+
+![graph](./images/results2.png)
 ***
 ## Next Steps
 1. **Understand what features make a listing valuable.** Now that we have a model that can help the team to select top 25% listings with the best weighted review scores rating, we can also potentially explore different features to understand which ones have the most impact. As a medium that connects the hosts and the guests, it would be very beneficial for the team and the company to know what connects these two audiences. Having more valuable listings and having a better standard of their listing selections will attract more guests to find a place to stay through Airbnb.
